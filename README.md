@@ -1,6 +1,7 @@
 [![The Stanford Daily logo](https://github.com/TheStanfordDaily/stanforddaily-graphic-assets/raw/master/DailyLogo/DailyLogo.png)](https://www.stanforddaily.com/)
 
 # The Stanford Daily WordPress Theme
+[![Build Status](https://travis-ci.com/TheStanfordDaily/tsd-wp-theme.svg?branch=master)](https://travis-ci.com/TheStanfordDaily/tsd-wp-theme)
 [![Greenkeeper badge](https://badges.greenkeeper.io/TheStanfordDaily/tsd-wp-theme.svg)](https://greenkeeper.io/)
 
 This is the WordPress theme for the Stanford Daily website. See it live at https://www.stanforddaily.com/. Contributions welcome!
