@@ -40,7 +40,7 @@
 	// 	include "inc/donate-header.php";
 	// }
 	include "inc/donate-header.php";
-	?>
+	?> 
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'tsd' ); ?></a>
 	<div class="background-overlay"></div>
 
