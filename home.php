@@ -142,7 +142,9 @@ function tsd_query_not_featured_posts($args) {
 					if ( have_posts() ) :
 						while ( have_posts() ) :
 							the_post();
+							echo '<div class="col-12 col-lg-6 tsd-excerpt-container-small">';
 							get_template_part( 'template-parts/excerpt-thumb', get_post_type() );
+							echo '</div>';
 						endwhile;
 					else:
 						// Do nothing
